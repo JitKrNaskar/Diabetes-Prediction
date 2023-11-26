@@ -1,4 +1,4 @@
-# Enhancing Diabetes Prediction through Machine Learning: A Comparative Analysis
+# Enhancing Diabetes Prediction: A Machine Learning Analysis
 
 <div align="center">
 <a target="_blank" href="https://colab.research.google.com/drive/1MXzulN99eBCB1-8zGu5HaRiHF2HMshfN?usp=sharing">
