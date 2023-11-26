@@ -1,7 +1,5 @@
 # Enhancing Diabetes Prediction through Machine Learning: A Comparative Analysis
 
-## Google Colab Link
-
 <div align="center">
 <a target="_blank" href="https://colab.research.google.com/drive/1MXzulN99eBCB1-8zGu5HaRiHF2HMshfN?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
