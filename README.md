@@ -51,7 +51,6 @@ Diabetes affects over 463 million worldwide, and traditional prediction methods 
 - ML Libraries: Scikit-learn
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - Cloud Computing: Google Colab.
-- ML Models: Logistic Regression, Random Forest, Gradient Boosting, Naïve Bayes, K-Nearest Neighbors, Decision Tree, Support Vector Machine (SVM)
 - Metrics: Accuracy Score, Classification Report, Confusion Matrix.
 - Tools: Joblib.
 - Visualization: Seaborn, Matplotlib.
