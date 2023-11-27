@@ -8,7 +8,7 @@
 
 ## Organization
 
-Connecting Dreams Foundation AICTE Internship | Vodafone Idea Foundation’s _VOIS
+Connecting Dreams Foundation | AICTE Internship | Vodafone Idea Foundation’s _VOIS
 
 ## Overview
 
