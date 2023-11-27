@@ -74,16 +74,17 @@ ML models:
 - Logistic Regression achieved the highest accuracy, 77.27%, making it the best-performing model.
 - Other models showed competitive accuracies ranging from 72.08% to 75.32%.
 
-![Visualizing Accuracy Scores](https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/a457192e-b8c5-42d6-a19e-450b5089b9bd)
-
+    ![Visualizing Accuracy Scores](https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/a457192e-b8c5-42d6-a19e-450b5089b9bd)
 
 ### Detailed Analysis:
 
 - The Logistic Regression report unveils precision, recall, and f1-score, along with a Confusion Matrix for comprehensive insights.
 
-![Evaluating the Model Performance](https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/5bd5022e-b4d5-4a9f-9042-6fe10c188f4d)
-
-![Visualizing Confusion Matrix Heatmap](https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/678ffe67-aa16-492c-a97c-1167f307331d)
+<div align="center">
+  <img src="https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/5bd5022e-b4d5-4a9f-9042-6fe10c188f4d" alt="Evaluating the Model Performance">
+  
+  <img src="https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/678ffe67-aa16-492c-a97c-1167f307331d" alt="Visualizing Confusion Matrix Heatmap">
+</div>
 
 ### Consideration of Metrics:
 
@@ -92,6 +93,10 @@ ML models:
 ### Model Comparison and Selection:
 
 - Logistic Regression's superior performance makes it the preferred choice for diabetes prediction.
+
+<div align="center">
+    <img src="https://github.com/JitKrNaskar/Diabetes-Prediction/assets/86208809/0fd43ada-caa0-4794-9438-839da3537e83" alt="Diabetes Prediction">
+</div>
 
 ### Future Steps:
 
